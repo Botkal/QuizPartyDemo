@@ -38,20 +38,20 @@ Each round, the question appears on the TV. Players answer on their phones. At t
 ### TV App — Lobby & Gameplay
 | | | |
 |---|---|---|
-| ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Screenshot_QuizParty-2.png) | ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Screenshot_QuizParty-3.png) | ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Screenshot_QuizParty-4.png) |
-| ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Screenshot_QuizParty-5.png) | ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Screenshot_QuizParty-6.png) | ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Screenshot_QuizParty-7.png) |
-| ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Screenshot_QuizParty-8.png) | ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Screenshot_QuizParty-9.png) | |
+| ![](assets/Screenshot_QuizParty-2.png) | ![](assets/Screenshot_QuizParty-3.png) | ![](assets/Screenshot_QuizParty-4.png) |
+| ![](assets/Screenshot_QuizParty-5.png) | ![](assets/Screenshot_QuizParty-6.png) | ![](assets/Screenshot_QuizParty-7.png) |
+| ![](assets/Screenshot_QuizParty-8.png) | ![](assets/Screenshot_QuizParty-9.png) | |
 
 ### Web Client — Play from Browser
 | | | |
 |---|---|---|
-| ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Web_game-client.png) | ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Web_game-client-2.png) | ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Web_game-client-3.png) |
-| ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Web_game-client-5.png) | ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Web_game-client-6.png) | |
+| ![](assets/Web_game-client.png) | ![](assets/Web_game-client-2.png) | ![](assets/Web_game-client-3.png) |
+| ![](assets/Web_game-client-5.png) | ![](assets/Web_game-client-6.png) | |
 
 ### Web Question Editor
 | | |
 |---|---|
-| ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/WebQuestionEditor.png) | ![](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/WebQuestionEditor-1.png) |
+| ![](assets/WebQuestionEditor.png) | ![](assets/WebQuestionEditor-1.png) |
 
 ---
 
@@ -59,7 +59,7 @@ Each round, the question appears on the TV. Players answer on their phones. At t
 
 | Gameplay | Web Client |
 |---|---|
-| [▶ Watch](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Running%20Devices%20-%20QuizParty%202026-05-11%2012-59-25.mp4) | [▶ Watch](https://raw.githubusercontent.com/Botkal/QuizPartyDemo/main/assets/Running%20Devices%20-%20QuizParty%202026-05-11%2013-01-37.mp4) |
+| [▶ Watch](assets/Running%20Devices%20-%20QuizParty%202026-05-11%2012-59-25.mp4) | [▶ Watch](assets/Running%20Devices%20-%20QuizParty%202026-05-11%2013-01-37.mp4) |
 
 ---
 
