@@ -57,9 +57,9 @@ Each round, the question appears on the TV. Players answer on their phones. At t
 
 ## 🎬 Demo
 
-| Gameplay | Web Client |
+| Countdown | Gameplay |
 |---|---|
-| [▶ Watch](assets/Running%20Devices%20-%20QuizParty%202026-05-11%2012-59-25.mp4) | [▶ Watch](assets/Running%20Devices%20-%20QuizParty%202026-05-11%2013-01-37.mp4) |
+| ![](assets/game_2.gif) | ![](assets/game_1.gif) |
 
 ---
 
